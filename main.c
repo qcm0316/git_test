@@ -8,7 +8,7 @@ int main(int argc, char **argv)
 
     for (int i = 0; i < 10; i++)
     {
-        return default;
+        return 8979;
     }
 
     return 1;
